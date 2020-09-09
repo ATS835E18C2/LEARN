@@ -1,6 +1,6 @@
 #include<iostream>
 
 int main(){
-std::cout<<"it's work: "<<std::endl;
+std::cout<<"Second commit: "<<std::endl;
 return 0;
 }
